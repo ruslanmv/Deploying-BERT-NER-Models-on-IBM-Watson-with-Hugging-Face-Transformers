@@ -209,7 +209,7 @@ You have successfully deployed a BERT NER model using Hugging Face transformers 
 
 ### Author
 
-**Ruslan Magana Vsevolodovna**, Intern in Watson Machine Learning.
+**Ruslan Magana Vsevolodovna**, IBM CIC Italy
 
 ### License
 
